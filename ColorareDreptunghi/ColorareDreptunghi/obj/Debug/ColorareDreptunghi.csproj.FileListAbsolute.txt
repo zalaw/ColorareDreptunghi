@@ -1,0 +1,10 @@
+C:\Visual Projects\ColorareDreptunghi\ColorareDreptunghi\bin\Debug\ColorareDreptunghi.exe.config
+C:\Visual Projects\ColorareDreptunghi\ColorareDreptunghi\bin\Debug\ColorareDreptunghi.exe
+C:\Visual Projects\ColorareDreptunghi\ColorareDreptunghi\bin\Debug\ColorareDreptunghi.pdb
+C:\Visual Projects\ColorareDreptunghi\ColorareDreptunghi\obj\Debug\ColorareDreptunghi.csprojAssemblyReference.cache
+C:\Visual Projects\ColorareDreptunghi\ColorareDreptunghi\obj\Debug\ColorareDreptunghi.Form1.resources
+C:\Visual Projects\ColorareDreptunghi\ColorareDreptunghi\obj\Debug\ColorareDreptunghi.Properties.Resources.resources
+C:\Visual Projects\ColorareDreptunghi\ColorareDreptunghi\obj\Debug\ColorareDreptunghi.csproj.GenerateResource.cache
+C:\Visual Projects\ColorareDreptunghi\ColorareDreptunghi\obj\Debug\ColorareDreptunghi.csproj.CoreCompileInputs.cache
+C:\Visual Projects\ColorareDreptunghi\ColorareDreptunghi\obj\Debug\ColorareDreptunghi.exe
+C:\Visual Projects\ColorareDreptunghi\ColorareDreptunghi\obj\Debug\ColorareDreptunghi.pdb
